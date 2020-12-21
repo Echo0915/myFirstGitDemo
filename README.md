@@ -25,3 +25,10 @@ git commit -m "lecture materials update"  **将暂存区内容添加到本地仓
 git push  **将本地版本库的分支推送到远程服务器上对应的分支**
 
 pause
+
+
+
+.gitignore
+
+不让某些文件或目录被更新
+
